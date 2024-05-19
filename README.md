@@ -5,4 +5,4 @@
 
 - Thank you so much for stopping by.
 
-![salute]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dhajlxNWE2Mmw5OTdhNTl5YnpjYnRjdXN3aGwwNm9rdGhvanJzeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKUcreLvhQNwCFG/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J3dmJ0NWFxOW54bGZ3cjVhM3Ayendua3h3bG5hcHg5Zm1uZzlpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cUMNWzWZ5n75LvcCIe/giphy.gif))
+![salute](https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif)
