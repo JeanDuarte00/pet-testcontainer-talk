@@ -12,7 +12,7 @@ Integration testing helps to identify and resolve any issues that may arise when
 
 Read More: https://martinfowler.com/bliki/IntegrationTest.html
 
-![pyramid](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*O_Zs8aGnXLjx3UHJ2WuqPw.png)
+![pyramid](https://sketchingdev.co.uk/assets/images/sketchnotes/2021-07-12-testing-pyramid/testing-pyramid.jpg)
 
 #### Test Container
 
