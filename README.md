@@ -12,7 +12,7 @@ Integration testing helps to identify and resolve any issues that may arise when
 
 Read More: https://martinfowler.com/bliki/IntegrationTest.html
 
-![pyramid](https://pkonyves.medium.com/the-modern-testing-pyramid-for-continuous-integration-7082691a5efc)
+![pyramid]([https://pkonyves.medium.com/the-modern-testing-pyramid-for-continuous-integration-7082691a5efc](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*O_Zs8aGnXLjx3UHJ2WuqPw.png))
 
 #### Test Container
 
