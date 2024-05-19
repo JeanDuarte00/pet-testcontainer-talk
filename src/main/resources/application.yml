@@ -1,0 +1,25 @@
+server:
+    port: 9999
+
+spring:
+    application:
+        name: testContainer
+    profiles:
+        active:
+    mvc:
+        pathmatch:
+            matching-strategy: ant_path_matcher
+    datasource:
+        url: jdbc:postgresql://motty.db.elephantsql.com/ryouhwho
+        username: ryouhwho
+        password: 7dUzlMnBW-tQAvh_FvrkAynMyMgXS1ex
+        driver-class-name: org.postgresql.Driver
+    jpa:
+        jdbc:
+            repositories:
+                enabled: false
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.PostgreSQLDialect
