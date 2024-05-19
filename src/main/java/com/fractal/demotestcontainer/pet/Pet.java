@@ -6,7 +6,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import org.apache.logging.log4j.util.Strings;
 
-import java.util.Objects;
 import java.util.UUID;
 
 @Entity
