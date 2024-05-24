@@ -2,7 +2,7 @@ package com.fractal.demotestcontainer;
 
 import com.fractal.demotestcontainer.config.PostgresContainer;
 import com.fractal.demotestcontainer.pet.Pet;
-import com.fractal.demotestcontainer.pet.PetRepository;
+import com.fractal.demotestcontainer.pet.repository.PetRepository;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.DisplayName;
