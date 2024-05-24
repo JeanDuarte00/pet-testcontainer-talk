@@ -2,7 +2,6 @@ package com.fractal.demotestcontainer;
 
 import com.fractal.demotestcontainer.config.PostgresContainer;
 import com.fractal.demotestcontainer.pet.Pet;
-import com.fractal.demotestcontainer.pet.repository.PetRepository;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.DisplayName;
@@ -26,11 +25,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest(classes = Application.class, webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class PetEntrypointSpec extends PostgresContainer {
 
-	private final PetRepository repository;
-
 	@Autowired
-	public PetEntrypointSpec (PetRepository repository, @LocalServerPort int serverPort) {
-		this.repository = repository;
+	public PetEntrypointSpec (@LocalServerPort int serverPort) {
 		RestAssured.port = serverPort;
 	}
 
