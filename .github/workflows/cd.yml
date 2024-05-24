@@ -1,4 +1,4 @@
-name: Rently Pipeline
+name: Pet Pipeline
 
 on:
     push:
